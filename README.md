@@ -17,5 +17,6 @@ I am Henrique Borba 😃. I am from Brasília, Brazil and I am the current maint
 - I'm passionate about backend and library development.
 - I also really enjoy working on ETL processes that involve Airflow, Spark or Databricks.
 - If a meteor was on its way to earth and the only way to stop it was for me to develop frontend, you better say goodbye to your family members.
+- The book Clean Code is a cult and Robert Martin is actually George Soros.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=henrique-borba&hide=["issues"]&show_icons=true)
