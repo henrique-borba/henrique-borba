@@ -11,6 +11,7 @@ I am Henrique Borba 😃. I am from Brasília, Brazil and I am the current maint
 * NumPower Autograd (https://github.com/NumPower/numpower-autograd)
 ## ⚡ My work style
 - The languages ​​I like and work with are **C, C#, Python and PHP**.
+- I can do **Java**, but my tolerance is low so I overdose quickly.
 - I have no preference for web frameworks and would use any that have dependency injection, a router, middleware support and **documentation**.
 - I prefer raw queries than ORM's 😃.
 - I'm passionate about backend and library development.
