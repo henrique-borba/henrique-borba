@@ -15,7 +15,3 @@ I am Henrique Borba 😃. I am from Brasília, Brazil and I am the current maint
 - I have no preference for web frameworks and would use any that have dependency injection, a router, middleware support and **documentation**.
 - I prefer raw queries than ORM's 😃.
 - I'm passionate about backend and library development.
-- I also really enjoy working on ETL processes that involve Airflow, Spark or Databricks.
-- If a meteor was on its way to earth and the only way to stop it was for me to develop frontend, you better say goodbye to your family members.
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=henrique-borba&hide=["issues"]&show_icons=true)
